@@ -6,7 +6,7 @@ package jaxb.model;
  * Date: 17.01.2022
  * Time: 19:42
  */
-
+//123
 import java.util.List;
 //
 import javax.xml.bind.annotation.XmlAccessType;
